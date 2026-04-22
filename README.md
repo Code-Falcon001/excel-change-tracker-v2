@@ -33,8 +33,8 @@ Monitors every cell edit in the **"STD format"** sheet in real time. Records **w
 
 | Timestamp | Username | Sheet | Cell | Column Name | Old Value | New Value |
 |---|---|---|---|---|---|---|
-| 04/22/2026 5:30 PM | Pranit | STD format | E7 | ITEM | EPH-480 | TEST1 |
-| 04/22/2026 5:30 PM | Ximena | STD format | B11 | COUNTRY | SINGAPORE | INDIA |
+| 04/22/2026 5:30 PM | Pranit | Sheet1 | E7 | ITEM | EPH-480 | TEST1 |
+| 04/22/2026 5:30 PM | Kevin | Sheet2 | B11 | COUNTRY | SINGAPORE | INDIA |
 
 ---
 
@@ -105,8 +105,7 @@ excel-change-tracker-v2/
 | Role | Name |
 |---|---|
 | **Developer** | Pranit Patil |
-| **Business Owner** | Philipp Prodinger |
-| **Organization** | Flex — WW Materials |
+| **Role** | Tableau Developer & AI Enthusiast |
 
 ---
 
