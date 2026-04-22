@@ -10,7 +10,7 @@
 
 ## 🎯 What It Does
 
-Monitors every cell edit in the **"STD format"** sheet in real time. Records **who** changed **what**, **when**, the **old value**, and the **new value** — all logged into a **"changelog"** sheet. Like a **CCTV camera for your spreadsheet**.
+Monitors every cell edit in the **"Excel File"** sheet in real time. Records **who** changed **what**, **when**, the **old value**, and the **new value** — all logged into a **"changelog"** sheet. Like a **CCTV camera for your spreadsheet**.
 
 ---
 
